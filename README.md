@@ -2,8 +2,9 @@
 
 
 - 👋 Hi, I’m @SlimMojka
-- 👀 I’m interested in ... html, css and javascript
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in game and websites development - i know html/css, c++ and python pretty well
+- 🌱 I’m currently learning ... c++, also studying japanese
+- ⭐ My hobbies are hiking and running for long distances, also i love listening to music
 - 📫 How to reach me ... add me on discord (Slim#0666)
 
 <!---
