@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SlimMojka/SlimMojka/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SlimMojka/output/snake.svg" alt="Snake animation" />
 
 ###
